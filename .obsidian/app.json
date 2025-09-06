@@ -1,0 +1,9 @@
+{
+  "promptDelete": true,
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "90_Attachments/",
+    "99_Templates/"
+  ],
+  "attachmentFolderPath": "90_Attachments"
+}

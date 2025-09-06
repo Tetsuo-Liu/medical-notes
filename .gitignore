@@ -1,0 +1,13 @@
+.obsidian/workspace.json
+.obsidian/cache/
+*.base
+
+.obsidian/plugins/
+.obsidian/themes/
+
+!/.obsidian/community-plugins.json
+
+!/.obsidian/appearance.json
+
+!/.obsidian/plugins/**/data.json
+!/.obsidian/themes/**/manifest.json

@@ -1,0 +1,18 @@
+---
+tags:
+  - 疾患
+aliases: []
+creation_date: <% tp.file.creation_date("YYYY-MM-DD") %>
+---
+
+## 病態・原因
+
+## 症状
+
+## 検査
+
+## 治療
+
+## 鑑別疾患
+
+## Ankiカード
