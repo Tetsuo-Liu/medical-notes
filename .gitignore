@@ -1,13 +1,20 @@
-.obsidian/workspace.json
+# Obsidian cache files
 .obsidian/cache/
+
+# Workspace layout files for different devices
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Other temporary or local files
 *.base
 
+# Ignore all plugin and theme files by default...
 .obsidian/plugins/
 .obsidian/themes/
 
+# ...but specifically UN-ignore the essential setting files.
+# This ensures that enabled plugins and themes are synced across devices.
 !/.obsidian/community-plugins.json
-
 !/.obsidian/appearance.json
-
 !/.obsidian/plugins/**/data.json
 !/.obsidian/themes/**/manifest.json
