@@ -1,4 +1,6 @@
 {
+  "terminal:close-terminal": [],
+  "terminal:find-in-terminal": [],
   "editor:toggle-highlight": [
     {
       "modifiers": [
@@ -20,5 +22,9 @@
       ],
       "key": "Q"
     }
-  ]
+  ],
+  "editor:delete-paragraph": [],
+  "terminal:clear-terminal": [],
+  "obsidian-editor-shortcuts:insertLineBelow": [],
+  "editor:toggle-checklist-status": []
 }
