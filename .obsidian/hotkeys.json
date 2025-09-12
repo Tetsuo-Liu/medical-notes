@@ -26,5 +26,14 @@
   "editor:delete-paragraph": [],
   "terminal:clear-terminal": [],
   "obsidian-editor-shortcuts:insertLineBelow": [],
-  "editor:toggle-checklist-status": []
+  "editor:toggle-checklist-status": [],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ]
 }
