@@ -4,7 +4,6 @@ tags:
 aliases: []
 creation_date: 2025-09-07
 ---
-**Hypertrophic Obstructive Cardiomyopathy; HOCM**
 ## 病態・原因
 
 ## 症状
