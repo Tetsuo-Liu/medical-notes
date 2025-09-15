@@ -1,6 +1,7 @@
 {
   "terminal:close-terminal": [],
   "terminal:find-in-terminal": [],
+  "terminal:clear-terminal": [],
   "editor:toggle-highlight": [
     {
       "modifiers": [
@@ -24,7 +25,6 @@
     }
   ],
   "editor:delete-paragraph": [],
-  "terminal:clear-terminal": [],
   "obsidian-editor-shortcuts:insertLineBelow": [],
   "editor:toggle-checklist-status": [],
   "editor:toggle-source": [
@@ -35,5 +35,6 @@
       ],
       "key": "S"
     }
-  ]
+  ],
+  "workspace:close": []
 }
