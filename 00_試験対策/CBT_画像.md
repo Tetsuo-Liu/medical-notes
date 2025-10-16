@@ -48,3 +48,7 @@
 	- 理由：*後縦隔に腫瘍が存在するので*
 - [ ] それぞれ電解質異常は何か？![[Pasted image 20251013212345.png]]
 	- [[Pasted image 20251013212051.png]]
+- [ ] それぞれ疾患は何か![[Screenshot_20251016-180155.Chrome.png]]
+	- [[Screenshot_20251016-180328.Chrome.png]]
+- [ ] ![[Screenshot_20251016-180513.Chrome.png]]
+	- 
