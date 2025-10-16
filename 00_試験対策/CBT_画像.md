@@ -51,4 +51,4 @@
 - [ ] それぞれ疾患は何か![[Screenshot_20251016-180155.Chrome.png]]
 	- [[Screenshot_20251016-180328.Chrome.png]]
 - [ ] ![[Screenshot_20251016-180513.Chrome.png]]
-	- 
+	- *肝性脳症*、*低血糖*
