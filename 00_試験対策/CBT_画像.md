@@ -97,4 +97,7 @@
 - [ ] ![[Pasted image 20251101144149.png]]
 	- [ ] [[Pasted image 20251101144208.png]]
 - [ ] ![[Screenshot_20251101-145115.フォト.png]]
-	- [ ] ![[Screenshot_20251101-145145.フォト.png]]
+	- [ ] [[Screenshot_20251101-145145.フォト.png]]
+# 解剖学
+- [ ] ![[Screenshot_20251101-163327.フォト~2.png]]
+	- [ ] ![[Screenshot_20251101-163435.フォト.png]]
